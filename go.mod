@@ -1,4 +1,4 @@
-module gen-ai-workshop-be-go
+module github.com/PH9/gen-ai-workshop-be-go
 
 go 1.25.0
 
